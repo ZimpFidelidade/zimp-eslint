@@ -1,0 +1,15 @@
+{
+  "name": "eslint-config-zimp",
+  "version": "0.0.1",
+  "bugs": "https://github.com/ZimpFidelidade/zimp-eslint/issues",
+  "engines": {
+    "node": ">=4.*"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "4.4.1"
+  },
+  "peerDependencies": {
+    "eslint": "4.4.1"
+  }
+}
